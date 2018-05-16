@@ -6,4 +6,4 @@ The Lab 1 contains three notebooks. Details of each of the notebooks are given b
 
 - **Convolutional-Neural-Network-Pytorch.ipynb:** In this notebook, we'll implement a convolutional neural network (CNN) for digit classification. We'll be using the MNIST dataset as used in the previous assignment.
 
-- **Transfer-Learning-Pytorch.ipynb:** In this notebook, we'll see how to use pretrained weights to finetune your model on your dataset.
+- **Transfer-Learning-Pytorch.ipynb:** In this notebook, we'll see how to use pretrained weights to finetune your model on your dataset. Basically, we will load pretrained weights to the Resnet18 model which is trained on the Imagenet dataset, and finetune to classify between ants and bees.
